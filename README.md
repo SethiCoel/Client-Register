@@ -7,8 +7,8 @@ Ja o arquivo App.py contém a estrutura do codigo, como o menú de opções, nom
 Bom, para funcionar o programa, é preciso que (Registro.py) esteja dentro de uma pasta com o nome (modulos) e o arquivo (App.py) fica fora.
 Dessa Forma:
 
-modulos:
-  ┕Registro.py
+modulos<br>
+  ┕Registro.py<br>
 App.py   
 
 #(Não necessariamente tem que ser feito desse forma, pra quem ja conhece tem outras formas para fazer funcionar.)#

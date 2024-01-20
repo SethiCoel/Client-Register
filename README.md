@@ -11,4 +11,4 @@ modulos<br>
   ┕Registro.py<br>
 App.py   
 
-#(Não necessariamente tem que ser feito desse forma, pra quem ja conhece tem outras formas para fazer funcionar.)#
+
